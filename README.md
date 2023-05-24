@@ -1,6 +1,6 @@
 <h1 align="center">🤠 Hello! I'm HeeBeom 🤠 </h1>
 
-<div align=center>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinHB417&show_icons=true)</div>
+<div align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinHB417&show_icons=true)</div>
 
 
 
