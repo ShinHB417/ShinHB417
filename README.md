@@ -1,4 +1,4 @@
-<h1 align="center">🤠 안녕하세요 백엔드 개발자 신희범입니다. 🤠 </h1>
+<h1 align="center">🤠 안녕하세요 백엔드 학생개발자 신희범입니다. 🤠 </h1>
 
 <div align=center> <h3>  📚 Stacks  </h3></div>
 
